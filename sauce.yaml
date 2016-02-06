@@ -1,0 +1,3 @@
+language: javascript
+framework: protractor
+configPath: protractor.conf.js
